@@ -1,0 +1,13 @@
+Flask==2.3.2
+werkzeug==2.3.10
+numpy==1.25.0
+librosa==0.10.1
+soundfile==0.12.1
+torch==2.1.0
+whisper==2023.9.18
+TTS==0.13.0
+tqdm==4.65.0
+matplotlib==3.8.0
+scipy==1.11.0
+requests==2.31.0
+nest_asyncio==1.5.6
